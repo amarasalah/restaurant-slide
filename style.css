@@ -44,6 +44,7 @@ body {
 .img-container{
   width: 95%;
   padding: 1% 2%;
+  margin-bottom: 10px;
   margin: auto;
   border-radius: 15px;
   background-color: #eee;
